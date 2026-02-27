@@ -1,5 +1,15 @@
 <h1 align="center"> Hi, I'm Mohammad Amin Parvaresh Yeganeh </h1>
 
+- 👀 I’m interested in
+  * Data Science
+  * Machine Learning 
+  * Algorithm Design
+  * Math
+  * Python & Scientific Computing (NumPy, Pandas, Matplotlib)
+  
+- 💞️ I’m looking to collaborate on Algorithmic challenges & Machine Learning projects
+  
+
 ## 📮 My Contact Info :
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminpy83/)
 [![Gmail](https://img.shields.io/badge/GMAIL-FBBC05?style=for-the-badge&logo=gmail)](mailto:aminpy83@gmail.com)
