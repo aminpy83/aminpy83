@@ -1,13 +1,13 @@
 <h1 align="center"> Hi, I'm Mohammad Amin Parvaresh Yeganeh </h1>
 
-- 👀 I’m interested in
+-  I’m interested in
   * Data Science
   * Machine Learning 
   * Algorithm Design
   * Math
   * Python & Scientific Computing (NumPy, Pandas, Matplotlib)
   
-- 💞️ I’m looking to collaborate on Algorithmic challenges & Machine Learning projects
+-  I’m looking to collaborate on Algorithmic challenges & Machine Learning projects
   
 
 ## 📮 My Contact Info :
